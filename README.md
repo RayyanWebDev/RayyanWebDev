@@ -17,10 +17,7 @@
 
 # 💻Tech that I know:
 
-<img src='https://i.ibb.co/2304GYw/CSS3-logo-and-wordmark-svg.png' alt='github' height='40'>
-<img src='https://i.ibb.co/c2tXHQv/png-transparent-logo-html5-brand-design-text-logo-number.png' alt='github' height='40'>
-<img src='https://i.ibb.co/80SPm4V/Java-Script-Logo.png' alt='github' height='40'>
-<img src='https://i.ibb.co/pnXJJzK/React-icon-svg.png' alt='github' height='40'>
+<img src='https://i.ibb.co/2304GYw/CSS3-logo-and-wordmark-svg.png' alt='github' height='40'><img src='https://i.ibb.co/c2tXHQv/png-transparent-logo-html5-brand-design-text-logo-number.png' alt='github' height='40'><img src='https://i.ibb.co/80SPm4V/Java-Script-Logo.png' alt='github' height='40'><img src='https://i.ibb.co/pnXJJzK/React-icon-svg.png' alt='github' height='40'>
 
 
 # 📈 Current Stats:
