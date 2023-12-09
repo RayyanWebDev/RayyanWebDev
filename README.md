@@ -1,7 +1,4 @@
 
-
-### Hi there 👋, I'm Mohammad Rayyan
-#### Junior Front-end Developer with Proficiency in Backend Technologies | JavaScript | React.js | mongoDB | Open to exciting job opportunities | rayyan3379@gmail.com
 ![Junior Front-end Developer with Proficiency in Backend Technologies | JavaScript | React.js | mongoDB | Open to exciting job opportunities | rayyan3379@gmail.com](https://i.ibb.co/120WQg2/techno.png)
 
 👋 Hi I'm Mohammad Rayyan, a Junior Front-end Developer.
