@@ -1,8 +1,7 @@
 
 ![Junior Front-end Developer with Proficiency in Backend Technologies | JavaScript | React.js | mongoDB | Open to exciting job opportunities | rayyan3379@gmail.com](https://i.ibb.co/120WQg2/techno.png)
 
-👋 Hi I'm Mohammad Rayyan, a Junior Front-end Developer.
-
+👋 Hi I'm Mohammad Rayyan, a Junior Front-end Developer skilled in MongoDB, Express, and React.js, I excel in crafting dynamic web applications. My aim is to expand my expertise by exploring innovative technologies, specifically delving into GSAP (Greensock Animation Platform), to elevate user experiences with captivating visual elements and animations.
 
 - 🔭 I’m currently working on MERN stack based projects to further enhance my skills and showcase my abilities to create new ideas. 
 - 🌱 I’m currently learning Greensock Animation Platform 
